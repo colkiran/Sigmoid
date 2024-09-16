@@ -1,0 +1,170 @@
+
+Primitive Data types
+---------------------
+1. Numbers
+   a. integer
+   b. float
+   c. complex
+2. Strings
+3. Boolean
+
+Operators
+
+Loops and control Structures
+
+Data Structures
+---------------
+1. lists
+2. dictionaries
+3. tuples
+4. sets
+
+Functions
+
+Introduction to OOPs
+
+Working with database (MySQL / Postgres) using python
+
+Introduction to threads and need for threads
+
+Creating a module, using modules, variables in modules
+
+Built in modules
+
+dir() function
+
+importing modules, Sys Modules, OS Module, Math Module, Date Time Module, Random module, Json Modules
+
+Numpy
+
+Pandas
+
+
+
+PyCharm - IDE        
+-------------
+
+Creating a project
+-------------------
+creates a virtual environment
+
+
++ = addition and concatenation
+
+* = multiplication and print string n number of times
+
+idle - integrated development environment
+
+
+SHEBANG
+--------
+C:\python		- path of python executable
+
+Coding Rules
+------------
+comments 
+--------
+single line comments = #  - Cntrl + /
+
+Strings
+-------
+are stored in "" or ''
+
+single line string  - "hello world" or 'hello world'
+
+multiple line string
+--------------------
+"""
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+"""
+
+'''
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+'''
+
+function
+--------
+top of every function we write doc strings -> describe the function and will be created using strings
+
+Python does not use parenthesis { } for 
+
+loops
+control structures
+functions 
+class
+
+Python uses indentation for block of code
+
+print
+------
+print(data, sep=, end="\n")
+
+
+Functions
+---------
+def - define
+
+def funtion_name():
+
+
+1. factorial of a number
+2. Fibonacci series
+
+
+Scope of a variable
+
+1. local - lexical - within a block of code
+2. global - global - 
+3. non local - 
+
+
+Lambdas
+-------
+Anonymous functions with single expression
+
+returns the result of exp = lambda var1, var2, var3...: expression
+
+Lambda is used with three other functions
+------------------------------------------
+1. map
+2. filter
+3. reduce
+
+l = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+map(lambda x: x ** 2, l)
+
+
+months = ['nov', 'jul', 'apr',  'dec', 'jan', 'oct', 'feb', 'sep', 'jun', 'mar', 'may', 'aug') 
+
+
+use sort and map to solve the above months
+
+
+cities = ['thiruvananthapuram', 'bangalore', 'chennai', 'hyderabad','delhi', 'vishakapatnam', 'ooty', 'mumbai']
+
+
+
+sort the cities based on length of their names
+
+res = sorted(cities, key = len, reverse = True)
+
+-------------------------------------------------
+
+Mera Bharath Mahan
+Hello
+
+
+
+
+
+
+
