@@ -33,7 +33,12 @@ Built in modules
 
 dir() function
 
-importing modules, Sys Modules, OS Module, Math Module, Date Time Module, Random module, Json Modules
+importing modules, Sys Modules, OS Module, Math Module, Date Time Module, Random module,
+
+
+Json Modules  -  Rest API  FLASK
+
+
 
 Numpy
 
@@ -159,8 +164,15 @@ res = sorted(cities, key = len, reverse = True)
 
 -------------------------------------------------
 
-Mera Bharath Mahan
 Hello
+apples from ooty
+Hi
+---------------------------------
+
+Mera Bharath Mahan
+Oranges from kanpur
+India is great
+
 
 
 

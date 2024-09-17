@@ -1,0 +1,99 @@
+__main__ =	double underscore main => dunder_main
+
+
+Class Variable / Attribute
+
+Class Method
+------------
+
+Operator Overloading
+--------------------
+
+overloaded == it worked for !=
+
+overloaded > (greater than) it worked for < (less than)
+
+Overload two comparison operators then use @total_ordering
+comparison is mandatory
+
+==, >
+
+--------------------------------------------------------------------
+write a code to overload all arithmetic operators
+
+1. addition
+2. subtraction
+3. multiplication
+4. division
+5. floor division
+
+
+Inheritance
+-----------
+
+
+
+Packages and Modules
+--------------------
+
+what are packages and Modules?
+
+Module - same as libraries in other technologies
+
+in python, any python can be considered as a module
+
+
+Package 
+-------
+packages are directories or folders where the modules are stored.
+
+
+2.x
+---
+all packages should have a file  -> __init__.py (mandatory)
+
+
+3.x
+---
+__init__.py is not mandatory
+
+
+
+consume a module 
+----------------
+import mymodule	
+---------------
+
+1. If the module is present then creates a folder __pycache__, inside this folder it stores the compiled copy of the module -> mymodule.cpython-311.pyc
+
+2. searches for module in environment paths
+
+3. reads the .pth file from python native directory (folder where python.exe is present)
+
+4. compares the date and time of creation or modification of .py file and .pyc file. python expects .pyc to have the latest date and time
+
+
+
+Create a file with any name but the extension should be .pth (path file)
+
+------------------------------------------------------
+
+import mymodule
+import mymodule as m
+
+from mymodule import function
+from mymodule import class
+
+import mypackage.mymodule
+
+from mypackage import * (__init__.py)
+
+
+
+
+
+
+
+
+
+
