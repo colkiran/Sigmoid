@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/sigmoid_package/sigmoid.py
+src/sigmoid_package.egg-info/PKG-INFO
+src/sigmoid_package.egg-info/SOURCES.txt
+src/sigmoid_package.egg-info/dependency_links.txt
+src/sigmoid_package.egg-info/top_level.txt
