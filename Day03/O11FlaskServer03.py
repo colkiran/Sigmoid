@@ -6,6 +6,7 @@ app = Flask(__name__)
 api = Api(app)
 
 products = {
+
     "pepsi" : {"item": "2 ltr bottle", "price": 120, "qty": 250},
     "coke" : {"item": "500 ml bottle", "price": 45, "qty": 500},
     "thumbs_up": {"item": "300 ml can", 'price': 60, "qty": 350}

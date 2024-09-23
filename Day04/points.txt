@@ -1,0 +1,22 @@
+1. Date and Time
+
+2. Numpy
+
+3. GitBash - command line
+
+4. Pandas
+
+
+Numpy
+-----
+Numerical Python - Travis Oliphant - 2005
+
+
+Python list vs Numpy = Numpy is 50x faster than lists in python
+
+the Numpy library is written in C and C++ for fast computation
+
+
+
+
+
