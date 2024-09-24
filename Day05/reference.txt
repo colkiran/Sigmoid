@@ -1,0 +1,75 @@
+Numpy
+-----
+Slicing
+
+numpy data types
+----------------
+
+Python data types
+-----------------
+1. Number
+  a. integer
+  b. float
+  c. complex
+
+2. strings
+3. Boolean
+
+Numpy data types
+----------------
+i - Integer
+b - Boolean
+u - unsigned integer
+f - float
+c - complex float
+m - timedelta
+M - datetime
+O - object
+S - String
+U - Unicode string
+V - fixed chunk of memory for other type
+
+
+
+
+Pandas
+------
+was developed by Wes McKinney - 2008
+
+table that is imported from a database - (csv, excel, xml, Json, db)
+
+convert the table to pandas dataframe (pandas object) -> implement all functions present in pandas
+
+functions related to cleansing
+------------------------------
+1. remove rows with null values
+2. remove rows with unwanted data
+3. replace null values with default values
+4. remove duplicate rows
+5. clean the empty cells
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
